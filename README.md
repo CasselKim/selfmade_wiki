@@ -3,7 +3,7 @@
 Inspired by [namu wiki](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4) theme.  
 Template : [Notion template](https://casselkim.notion.site/e2e8ad778f3140cfaa63ceccaa83018c)  
 [Example](https://casselkim.notion.site/router-a590cc91a35d4fe488ccdc43997df0be)
-## Terms list(Update 2021-10-12)
+## Terms list(Update 2021-10-20)
 - AP(Application Processor)
 - API(Application Programming Interface)
 - big-O
@@ -23,6 +23,7 @@ Template : [Notion template](https://casselkim.notion.site/e2e8ad778f3140cfaa63c
 - 네트워크(Network)
 - 두 장군 문제(Two Generals' Problem)
 - 디더링(Dithering)
+- 데이터베이스(Database)
 - 라우터(router)
 - 라이브러리(Library)
 - 라이센스(License)
@@ -42,3 +43,4 @@ Template : [Notion template](https://casselkim.notion.site/e2e8ad778f3140cfaa63c
 - 프레임워크(Framework)
 - 프로토콜(Protocol)
 - 하드웨어(Hardware)
+- 프로비저닝(provisioning)
