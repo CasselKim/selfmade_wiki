@@ -1,8 +1,8 @@
 # Selfmade_wiki
-## **🔨 Refactoring Selfmade Wiki using notion!**  
-Inspired by [namu wiki](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4) theme.  
-Template : [Notion template](https://casselkim.notion.site/e2e8ad778f3140cfaa63ceccaa83018c)  
-[Example](https://casselkim.notion.site/router-a590cc91a35d4fe488ccdc43997df0be)
+## **Stop using namu wiki's theme : spending too many time to decorate contents**  
+Refactoring stop : 2022-01-09
+Just put the contents clearly so that I can see the things smoothly.  
+
 ## Terms list(Update 2021-10-20)
 - AP(Application Processor)
 - API(Application Programming Interface)
@@ -20,13 +20,14 @@ Template : [Notion template](https://casselkim.notion.site/e2e8ad778f3140cfaa63c
 - UI(User Interface)
 - USB(Universal Serial Bus)
 - VPN(Virtual Private Network)
+- WAS(Web Application Server)
 - 네트워크(Network)
 - 두 장군 문제(Two Generals' Problem)
 - 디더링(Dithering)
-- 데이터베이스(Database)
 - 라우터(router)
 - 라이브러리(Library)
 - 라이센스(License)
+- 메시징 시스템(Messaging System)
 - 메타데이터(metadata)
 - 미들웨어(Middleware)
 - 방화벽(Firewall)
@@ -41,6 +42,8 @@ Template : [Notion template](https://casselkim.notion.site/e2e8ad778f3140cfaa63c
 - 특징 추출(Feature Extraction)
 - 파싱(parsing)
 - 프레임워크(Framework)
+- 프로비저닝(provisioning)
 - 프로토콜(Protocol)
 - 하드웨어(Hardware)
-- 프로비저닝(provisioning)
+
+
