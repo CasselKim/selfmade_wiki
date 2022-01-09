@@ -1,9 +1,9 @@
 # Selfmade_wiki
-## **Stop using namu wiki's theme : spending too many time to decorate contents**  
-Refactoring stop : 2022-01-09
+## **Stop using namu wiki's theme**  
+Reason : spending too many time to decorate contents
 Just put the contents clearly so that I can see the things smoothly.  
 
-## Terms list(Update 2021-10-20)
+## Terms list(Update 2022-01-09)
 - AP(Application Processor)
 - API(Application Programming Interface)
 - big-O
